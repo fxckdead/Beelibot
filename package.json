@@ -1,0 +1,19 @@
+{
+  "name": "beelibot",
+  "version": "0.1.0",
+  "description": "Simple Slackbot for testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxckdead/Beelibot.git"
+  },
+  "author": "Christian Parra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxckdead/Beelibot/issues"
+  },
+  "homepage": "https://github.com/fxckdead/Beelibot#readme"
+}
